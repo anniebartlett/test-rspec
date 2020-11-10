@@ -14,5 +14,3 @@ def parse_csv
   end
   data
 end
-
-p parse_csv[3][:tax].class
